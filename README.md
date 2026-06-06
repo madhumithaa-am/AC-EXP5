@@ -102,13 +102,15 @@ plot2d3('gnn',r);
 ## Calculation:
 
 
-i) Mean of X = 0.5 ;Mean of Y = 0.5
+i) Mean of X = -0.6 ;Mean of Y = -0.6
 
-ii) Variance of X =0.05; Variance of Y =0.05
+ii) Variance of X =-0.96; Variance of Y =-0.96
 
 Type in the reference sequence = [1 2 3 4 5 6 7 8]
 
 Type in the second sequence = [2 1 3 5 6 3 5 9]
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/584b154c-18e5-441c-91b4-4fd21a3e3057" />
+
 
 ## Result:
 
