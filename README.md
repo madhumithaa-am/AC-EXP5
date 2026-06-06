@@ -110,6 +110,8 @@ Type in the reference sequence = [1 2 3 4 5 6 7 8]
 
 Type in the second sequence = [2 1 3 5 6 3 5 9]
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/584b154c-18e5-441c-91b4-4fd21a3e3057" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/0bbed089-77a0-4a85-9147-f5d377d916fc" />
+
 
 
 ## Result:
